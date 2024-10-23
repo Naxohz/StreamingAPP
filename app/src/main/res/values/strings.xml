@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Streaming Regional</string>
+    <string name="welcome_message">Bienvenidos a Streaming Regional</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="email">Correo electrónico</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="location">Ubicación</string>
+    <string name="get_location">Obtener ubicación</string>
+    <string name="sports_category">Deportes en la región</string>
+    <string name="news_category">Noticias de la Región</string>
+</resources>
